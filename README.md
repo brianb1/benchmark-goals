@@ -124,6 +124,9 @@ A string that contains several words to disemvowel. It will consist of all lower
 
 The disemvowled text with spaces removed.
 
+
+https://repl.it/F5G5/1
+
 ---
 
 ### 6: Where in the JSON?
