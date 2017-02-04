@@ -1,0 +1,13 @@
+
+
+https://github.com/GuildCrafts/web-development-js/issues/144
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code
